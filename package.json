@@ -1,0 +1,20 @@
+{
+  "name": "puntocommerschallenge",
+  "version": "1.0.0",
+  "description": "simple app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "author": "lgaravilla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "string-similarity": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
