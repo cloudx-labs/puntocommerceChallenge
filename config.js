@@ -1,6 +1,6 @@
 const HOST = 'localhost';
 const USER = 'root';
-const PASSWORD = 'xside123';
+const PASSWORD = 'root';
 const DB = 'puntocommersChallenge';
 
 module.exports = {

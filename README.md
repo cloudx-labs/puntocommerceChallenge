@@ -3,8 +3,14 @@
 Do `npm i`
 
 ***
+
+## Create Database
+First, create the MySql server and configure the credentials in `./config.js`. Then download the dump in `./dump/puntocommerschallenge_dump.sql` and import it in MySql Database for create the Database, the User table and the mock data from the user table.
+
+***
+
 ## Run
-`npm start`
+Do `npm start`
 Server running at http://localhost:3000
 
 ***
